@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: '/nos-qol/'
+  base: "/nos-qol/"
 });
